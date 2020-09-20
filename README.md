@@ -1,1 +1,17 @@
-# smithwarr
+#EXTM3U
+
+
+#EXTINF:-1,deadpool1
+https://00e9e64bac299dca04ffdcd02c540c594d42174846d446fabb-apidata.googleusercontent.com/download/storage/v1/b/kyaru/o/2yvWarMdZ7K-umi.mp4?qk=AD5uMEuIGOE4rOAvaKV3TYcH65k27vFmMFBiHmiv_QjpbMDMQc_IePSDo_mLeOHfEGZUGhY2xilAkU3rtdk3cth9qpKw23uJBsoRa7_ErsOAI7onDorP054bwCEQTmMqpWRDs7nbH-RU6RUpXq06qJ0oyBJkgOExj6x1R370ZmjuIOBDXVrtcJcULOBEiRZkQgdkZSEeEYrFoHaoVuKqDORKkeT3yaA-8_n9Z3Rje1Kid8CxGI4_sx4Ktm2jt8s0MYxoImmLXRAuFGD8lr15sFli-Ojfz4cTd0JrAoiURh95sINwNCSSfZVI8tXLndYdnL-U9mQGXSRguwMDfM3E4ZwJusMs6yjW6qDPAUaHje-0F9NbPUrFpTUebZYL6IL0lvJM0E51UsZ9bX5_E_YxQQ1b9ft4h5Sl__BbbCTETs2Vv3YNJI5OnZIV2FruaGCqie-ik8pqyA2lkXzRirXL__ONniOvbiGeH17RjjTVVBH7ezq-KTnXJcepj8pjaDTA7hPDSpDcyDaRrnHJwMuA_7cdiNZuTx8AK8TllR0vcSrcohguthpY9lO17AA0-D-4cBcyxgR7Nan9K6zVV0MFt3OZ-9B27LtPEQbjQP9s3BEtHLEyZM0JXKZjxxLmEQwvLKSJSSjfCjtzaNMOpzUVlMufab8LZmezKTdoLGtOVw1iuKf2ZBA0Djgt944en0RhfmpXA6F_9ENFpsZ-4FqPnh8v-ev0rxOLhgmrzsCodB7cJPSJ_-S01IjHqJ19e_ohT1fslAo5Sl129sLiqh3z2VP9jyh6ApQZE9tK6ABCkltBsRmfcdQJ_2OWLf3b0LK3dwvLcGOiCIxy&isca=1
+#EXTINF:-1,fox
+https://u65464.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?s=GfgSwIHuS6RUSVG-nBuFAA&e=1598358443
+#EXTINF:-1,tnt series
+https://css.gbtcdn.com/imagecache/gbw/css/vendor-b1df0e55c6d0.css?pro
+#EXTINF:-1,history
+https://ul.cdn946.net:8443/hls/sl7lltju7plx.m3u8?s=KGOQhn749nD-OcSoRmhcCQ&e=1598358581
+#EXTINF:-1,LOS SIMPSON
+http://89.105.194.59:25461/live/spenlhtiy10/spenlhtiy10/68.m3u8
+#EXTINF:-1,dragon ball
+http://89.105.194.59:25461/live/spenlhtiy10/spenlhtiy10/69.m3u8
+#EXTINF:-1,titanic
+https://chiwipelis.xyz/drama/titanic/
