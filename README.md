@@ -2,10 +2,7 @@
 
 
 #EXTINF:-1,warner
-https://espare.tk/live/warner_lat-3825.ts
-
-#EXTINF:-1,tnt
-https://ul.cdn946.net:8443/hls/14zot7ix1j24gn6.m3u8?s=BprjFgT1ByOYcYPomGK3ew&e=1603402821
+https://espare.tk/live/warner_lat.m3u8?token=Z6vg84sCMY6lQYtYb43srQ&expires=1603487012
 
 #EXTINF:-1,Avengers
 https://de.tynt.com/deb/v2?id=w!kwhbyurh7quk&dn=TC&cc=4&r=https%3A%2F%2Fchiwipelis.xyz%2Faccion%2Fplaya-paraiso%2F
