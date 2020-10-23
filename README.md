@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1,warner
-https://ul.cdn946.net:8443/hls/rc9fntv.m3u8?s=p-4PN6erOAAUnCCafy2vWw&e=1603402730
+https://espare.tk/live/warner_lat-3825.ts
 
 #EXTINF:-1,tnt
 https://ul.cdn946.net:8443/hls/14zot7ix1j24gn6.m3u8?s=BprjFgT1ByOYcYPomGK3ew&e=1603402821
