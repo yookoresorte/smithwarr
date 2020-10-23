@@ -10,6 +10,6 @@ https://de.tynt.com/deb/v2?id=w!kwhbyurh7quk&dn=TC&cc=4&r=https%3A%2F%2Fchiwipel
 #EXTINF:-1,tntseries
 https://espare.tk/live/tnt_series_lat.m3u8?token=YgvKNrZDmImgQCNSKvboOg&expires=1603403392
 
-#EXTINF:-1,Avengers
+
 
 
