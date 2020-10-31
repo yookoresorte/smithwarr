@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1,  SOBRENATURAL (2007)
 https://ia801507.us.archive.org/8/items/LaNiebla2007/La%20niebla%202007.mp4
 #EXTINF:-1,  ANGRY BIRDS
