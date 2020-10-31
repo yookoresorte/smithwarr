@@ -7,7 +7,6 @@ https://espare.tk/live/warner_lat.m3u8?token=NB5l6N3dHRuqGFhywiGIOA&expires=1604
 #EXTINF:-1,warner
 https://srregio.net/o20/regioflix.m3u
 
-
 #EXTINF:-1,tnt
 https://espare.tk/live/tnt_lat.m3u8?token=gfQfXKUp-7GzbwyK6vFumg&expires=1604033032
 
@@ -16,4 +15,5 @@ https://espare.tk/live/tnt_series_lat.m3u8?token=KqDxF19AlIttXLqseTIU7w&expires=
 
 #EXTINF:-1, cn
 https://espare.tk/live/cartoon_network_lat.m3u8?token=2CQosinmOr9oZUaHMBEwWQ&expires=1604032822
+
 
