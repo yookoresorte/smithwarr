@@ -1,17 +1,17 @@
 #EXTM3U
 
 #EXTINF:-1,tnt
-https://espare.tk/live/tnt_lat.m3u8?token=-KLQriY3fmSdANiCUZ6Iaw&expires=1604384989
+https://espare.tk/live/tnt_lat.m3u8?token=nXvTHLrjIT1PKEjt5e6BTQ&expires=1604447285
 #EXTINF:-1,tnt series
-https://espare.tk/live/tnt_series_lat.m3u8?token=26jolLHEO8yp6hOVjkKGgQ&expires=1604385067
+https://espare.tk/live/tnt_series_lat.m3u8?token=FQgQJY_dsGMg2CTKrcGpDg&expires=1604447358
 #EXTINF:-1,warner
-https://espare.tk/live/warner_lat.m3u8?token=tpCwYH-HQD8_Js3XoRxOHw&expires=1604385171
+https://espare.tk/live/warner_lat.m3u8?token=qzIrlTjSpnndUwIJGX-Uug&expires=1604447417
 #EXTINF:-1,fox
-https://espare.tk/live/fox_lat.m3u8?token=F0TCYaXND_peyWFSnwWiZQ&expires=1604385250
+https://espare.tk/live/fox_lat.m3u8?token=8K-AErqEsjwcD2U7D33Klw&expires=1604447474
 #EXTINF:-1,cartoon network
-https://espare.tk/live/cartoon_network_lat.m3u8?token=xHc4S8KNflbvXNF8rvZ_ug&expires=1604385344
+https://espare.tk/live/cartoon_network_lat.m3u8?token=9bkWDODntraRG0SPxbS4_Q&expires=1604447529
 #EXTINF:-1,nick
-https://espare.tk/live/nick_lat.m3u8?token=XwVuJ9_LVGfubV54vyF2Tg&expires=1604385415
+https://espare.tk/live/nick_lat.m3u8?token=YxjVX2ajp8DmnLmOdSR2aQ&expires=1604447579
 #EXTINF:-1,#EXTINF:-1,unitel13
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbC7J86KsAgJz9WY0qpI3nE)/dm/3/x7vsezg/d/live-2.m3u8
 #EXTINF:-1,bolivicion9
