@@ -1,6 +1,8 @@
 
 #EXTM3U
 
+#EXTINF:-1,ANIME EN ESPAÑOL
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,fox
 https://espare.tk/live/fox_lat.m3u8?token=fa2l5rX6GQfKtYO428Lkfg&expires=1604694721
 #EXTINF:-1,fox premium action
