@@ -1,37 +1,39 @@
-
-#EXTM3U
+ #EXTM3U
 
 #EXTINF:-1,fox
-https://espare.tk/live/fox_lat.m3u8?token=_594flmwWz9gLsRVVSb5lA&expires=1605105830
+https://espare.tk/live/fox_lat.m3u8?token=3dNaRl2aeA076UQ4DFYaFQ&expires=1605128331
 #EXTINF:-1,hbo latino
-https://espare.tk/live/hbo_lat.m3u8?token=XQ4ZI4Kg-1bfiBF3UUw2GQ&expires=1605105888
+https://espare.tk/live/hbo_lat.m3u8?token=hssL50kAhNgh3WEZ_wdD_g&expires=1605128389
 #EXTINF:-1,hbo2
-https://espare.tk/live/hbo2_lat.m3u8?token=iEFrDc9H2U8SohsnIUSyrg&expires=1605105945
+https://espare.tk/live/hbo2_lat.m3u8?token=-8VCQie17ZoPywjjeT1bsw&expires=1605128446
 #EXTINF:-1,cinemax
-https://espare.tk/live/cinemax.m3u8?token=RMoNYIRMt9HSOv6wkCnPfA&expires=1605106001
+https://espare.tk/live/cinemax.m3u8?token=0tl1ZoWpIrbo88PoojupCg&expires=1605128502
 #EXTINF:-1,cine canal
-https://espare.tk/live/cinecanal_lat.m3u8?token=yESsCZepdU7a59WV3wI5gA&expires=1605106052
+https://espare.tk/live/cinecanal_lat.m3u8?token=7GmtJD_-kD1XTPif0qLLig&expires=1605128554
 #EXTINF:-1,tnt 
-https://espare.tk/live/tnt_lat.m3u8?token=-tks1TVal2IgfA-_VQhlOg&expires=1605106106
+https://espare.tk/live/tnt_lat.m3u8?token=Uj04LHbWOMdInTxG04WAEQ&expires=1605128607
 #EXTINF:-1,tnt series
-https://espare.tk/live/tnt_series_lat.m3u8?token=q86GBcHBx6oW6wCZu4cVhA&expires=1605106155
+https://espare.tk/live/tnt_series_lat.m3u8?token=J1aO4GKKnY8QB1gFjkiVkA&expires=1605128656
 #EXTINF:-1,axn
-https://espare.tk/live/axn_lat.m3u8?token=VTmHQ5AADhfuDxaDCVha7A&expires=1605106203
+https://espare.tk/live/axn_lat.m3u8?token=l9zk7tyvIarRgsWcaMEnDA&expires=1605128704
 #EXTINF:-1,amc
-https://espare.tk/live/amc.m3u8?token=J7O3HQv6uTrcldpkR_5lkg&expires=1605106280
+https://espare.tk/live/axn_lat.m3u8?token=l9zk7tyvIarRgsWcaMEnDA&expires=1605128704
 #EXTINF:-1,space
-https://espare.tk/live/space_lat.m3u8?token=6rJtFz6xRKgd9JLuFR-U-A&expires=1605106326
+https://espare.tk/live/axn_lat.m3u8?token=l9zk7tyvIarRgsWcaMEnDA&expires=1605128704
 #EXTINF:-1,comedy central
-https://espare.tk/live/comedycentral_lat.m3u8?token=vWY48CVKaln63iJN-i7G5w&expires=1605106382
+https://espare.tk/live/comedycentral_lat.m3u8?token=W5MBlw3hJ6dI7mCG-hQm0g&expires=1605128880
 #EXTINF:-1,paramount channel
-https://espare.tk/live/paramount_lat.m3u8?token=hQOl9qU8JEPZ7WdWieGjPg&expires=1605106429
+https://espare.tk/live/paramount_lat.m3u8?token=r0PFe2_glv8U73_pZ4Tzew&expires=1605128927
 #EXTINF:-1,sony
-https://espare.tk/live/sony_lat.m3u8?token=AnfvWb6xB5b6WOt7tOXDIg&expires=1605106478
+https://espare.tk/live/sony_lat.m3u8?token=0mnWnh9h1dCD6ZVs1i6iUQ&expires=1605128976
 #EXTINF:-1,studio universal
-https://espare.tk/live/studiouniversallat.m3u8?token=4STsQg3ChK_mafwGytVbKg&expires=1605106538
+https://espare.tk/live/studiouniversallat.m3u8?token=jmOIky2kFgON3d_107pV1g&expires=1605129036
 #EXTINF:-1,universal channel
-https://espare.tk/live/universal_lat.m3u8?token=26v3wETzmOWiJW4Wmp5CqA&expires=1605106593
+https://espare.tk/live/universal_lat.m3u8?token=po2VrKpDrW2ceIBqBD43gw&expires=1605129090
 #EXTINF:-1,warner 
-https://espare.tk/live/warner_lat.m3u8?token=CV0zZhe8cQHALbi1LobOuQ&expires=1605106636
+https://espare.tk/live/warner_lat.m3u8?token=Ok9D9VQ6RYGmErXjT1tKbg&expires=1605129134
+
+
+
 
 
