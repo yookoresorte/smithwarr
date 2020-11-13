@@ -33,5 +33,9 @@ https://espare.tk/live/studiouniversallat.m3u8?token=4Hi_rBaVA_SeUEhF0odmEw&expi
 https://espare.tk/live/universal_lat.m3u8?token=VhJlwJRj0jt1468P7HUaug&expires=1605325671
 #EXTINF:-1,warner 
 https://espare.tk/live/warner_lat.m3u8?token=lsP8T_h-chRWMrdKG7y_0w&expires=1605325715
-
-
+#EXTINF:-1,comedy c
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8f8e7598841d0007bf35b3/subtitle/es/playlist.m3u8?terminate=false&deviceId=6263c435-c123-46bb-afc5-51b11c038183&deviceVersion=86.0.4240.193&appVersion=5.10.0-63088da67b32904787b837429cfa9c5c605b7626&deviceType=web&deviceMake=Chrome&sid=4b5606fd-25fc-11eb-92c0-0242ac110002&advertisingId=&deviceLat=-17.3822&deviceLon=-66.1518&deviceDNT=false&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1,nick clasicc
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/subtitle/es/playlist.m3u8?terminate=false&deviceId=6263c435-c123-46bb-afc5-51b11c038183&deviceVersion=86.0.4240.193&appVersion=5.10.0-63088da67b32904787b837429cfa9c5c605b7626&deviceType=web&deviceMake=Chrome&sid=4b5606fd-25fc-11eb-92c0-0242ac110002&advertisingId=&deviceLat=-17.3822&deviceLon=-66.1518&deviceDNT=false&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1,narutio
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/3063648/playlist.m3u8?terminate=false&deviceId=6263c435-c123-46bb-afc5-51b11c038183&deviceVersion=86.0.4240.193&appVersion=5.10.0-63088da67b32904787b837429cfa9c5c605b7626&deviceType=web&deviceMake=Chrome&sid=4b5606fd-25fc-11eb-92c0-0242ac110002&advertisingId=&deviceLat=-17.3822&deviceLon=-66.1518&deviceDNT=false&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
