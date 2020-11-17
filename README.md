@@ -1,39 +1,35 @@
-
 #EXTM3U
 
 #EXTINF:-1,fox
-https://espare.tk/live/fox_lat.m3u8?token=vfOLWmRftD0oqTj3nPDU_A&expires=1605324910
+https://espare.tk/live/fox_lat.m3u8?token=X4VQHbpWoigRfw6Y0lUM0A&expires=1605667262
 #EXTINF:-1,hbo latino
-https://espare.tk/live/hbo_lat.m3u8?token=kXt6vqvzOI7DgpxFisDL-A&expires=1605324969
+https://espare.tk/live/fox_lat.m3u8?token=X4VQHbpWoigRfw6Y0lUM0A&expires=1605667262
 #EXTINF:-1,hbo2
-https://espare.tk/live/hbo2_lat.m3u8?token=Skr8oTvQwMc5rn5joqpDUg&expires=1605325026
+https://espare.tk/live/hbo2_lat.m3u8?token=FZWHrKrydzeKA96Sn3tVJQ&expires=1605667378
 #EXTINF:-1,cinemax
-https://espare.tk/live/cinemax.m3u8?token=271_S-1NeWRNaLCYykNaWQ&expires=1605325081
+https://espare.tk/live/cinemax.m3u8?token=ITPQsu--e-BhJow3DLfKsg&expires=1605667437
 #EXTINF:-1,cine canal
-https://espare.tk/live/cinecanal_lat.m3u8?token=X_3Z72qQRCZm1HPIH1e3MQ&expires=1605325132
+https://espare.tk/live/cinecanal_lat.m3u8?token=y3xlxXgMZWsXX8F4VaCQvQ&expires=1605667485
 #EXTINF:-1,tnt 
-https://espare.tk/live/tnt_lat.m3u8?token=0Jcey0mgpiS5b67w_Ii4Tg&expires=1605325186
+https://espare.tk/live/tnt_lat.m3u8?token=p6Bzv-WBwiGyKCDMJthOpw&expires=1605667539
 #EXTINF:-1,tnt series
-https://espare.tk/live/tnt_series_lat.m3u8?token=C-Nq1olhYgXbn-RASKL4CA&expires=1605325235
+https://espare.tk/live/tnt_series_lat.m3u8?token=KXhW8fdGqh9KJrYHTGaTRg&expires=1605667588
 #EXTINF:-1,axn
-https://espare.tk/live/axn_lat.m3u8?token=PQAy1tVZa7c5LpG95ljzSg&expires=1605325282
+https://espare.tk/live/axn_lat.m3u8?token=dLbHzznFwwRWkhhWHhgiZA&expires=1605667636
 #EXTINF:-1,amc
-https://espare.tk/live/amc.m3u8?token=9ij7XDvnQlKD-61zXBy_YQ&expires=1605325358
+https://espare.tk/live/amc.m3u8?token=EUjeoQR2St2mAbuJg3ggAQ&expires=1605667712
 #EXTINF:-1,space
-https://espare.tk/live/space_lat.m3u8?token=Z-S9Jv0f4koPhULp_5cU_g&expires=1605325406
+https://espare.tk/live/space_lat.m3u8?token=jpgB_Yc2LYFtr1NOc8ZZQw&expires=1605667759
 #EXTINF:-1,comedy central
-https://espare.tk/live/comedycentral_lat.m3u8?token=uyb-60lB1qoE72zSvCiX0A&expires=1605325461
+https://espare.tk/live/comedycentral_lat.m3u8?token=Khhm6iXB-i7mjZYqpmLxqw&expires=1605667814
 #EXTINF:-1,paramount channel
-https://espare.tk/live/paramount_lat.m3u8?token=qaBYuOrqIQtN24ye5ZxDvQ&expires=1605325508
+https://espare.tk/live/paramount_lat.m3u8?token=UwTrECxOrhbHJPfKVXeN0w&expires=1605667862
 #EXTINF:-1,sony
-https://espare.tk/live/sony_lat.m3u8?token=5-uAHyqLyyRr3sopSRvWsA&expires=1605325556
+https://espare.tk/live/sony_lat.m3u8?token=8VjM8XwJ7YB8Aho2okpOpg&expires=1605667911
 #EXTINF:-1,studio universal
-https://espare.tk/live/studiouniversallat.m3u8?token=4Hi_rBaVA_SeUEhF0odmEw&expires=1605325617
+https://espare.tk/live/studiouniversallat.m3u8?token=hoSqIKCNnQSTwHOJR6bQlg&expires=1605667973
 #EXTINF:-1,universal channel
-https://espare.tk/live/universal_lat.m3u8?token=VhJlwJRj0jt1468P7HUaug&expires=1605325671
+https://espare.tk/live/studiouniversallat.m3u8?token=hoSqIKCNnQSTwHOJR6bQlg&expires=1605667973
 #EXTINF:-1,warner 
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Cv4EcHaxmWVV0MSSU_tO6xnZGLd8nxGtM-V0Kp9Eqp7H8PWWNmmp7rBTDi3C1UgJvYOPN6vGX9mQq2VtYejCBToNpgYf3N_91eAkSNSl_gPNKFlUantSloP2t98OzcjELqmgfGhgefiM9jwUG3cS9UtyU9WDfYwKTE9h0o_R_al0NMn7G_pPeXRHF_VgYCEiTRPwGqYcj1YgyywJgy33i0mgG72BiBgYlTHfS89E541KuTw9-fjcTwGZX2Une3NFEwRVOi24qyD_80eE8p5ESDjfP4REt8_6DviLcO_13EQMvWvkVNDQv2-7EqHTaI4aa0Dziq0rNTln2xq0oXgb2dUPQq2KFnrVBlYenScdJvXaFX8DnHF04kTvFBYEjQLsMvgKQRMDth3uRnnN0-pd5HN6iAbbEPbJWiM2IrKAPlH2FHQAzRp-Q7GEspzL0bk2YIcyoKIP3pPGEz_JcTKRaFFm_otfMSDt6t9krV3eKGyS_sgRFZKVB2DsOqVgS-Gifp5cV5s09ka9b1lQi5hYbsMX0vdPrgZhjmEFUPz2SIH6ROGhQWeaHaIqdONs0-TuYe-Z9P6jFrxUnaRM5ptdGOrALXzrojevi-HFDN9D89-W03giJgAoBYPv3mDloeEHdoXblxe6WZsNrwJJUx9L8DpFMLN2f4O--6kJWKBeAvjBpHA_Jg69E4t3sMLI78B9lUjP4BH7cIeYCbLggldl3_2ttBq7VnJoeG8TITi6PdAZCsLQzDbSX_Ls78o0_jaE8wXWiNysMpKXbXwiuQ4Y6FhduO1mjp6rJDNyjfuz2f_ZhVBS415QYKaCr5jwi8QcFkn5nRR5prHy40pa92FQzvISELuPMpqJsTbyBNOoVosbrcEaDJUeENisCCC1_Slbjw.m3u8
-#EXTINF:-1,comedy c
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpUFNIq6xmn6ogVXwsTh1BTLWGLCiFtvqDa4JcyU_9f3jWH4DbMT1AFXGsQGy3wDL9nBrg4YxkBziRpBt_86x6u8JcEf30EVaRRV8H8lCjdBF0IcUjZX1NUnTwIDdAGwSXPJNIXz1HhfXgxEYXHOqF7t5FDCmt0W4wBv7XfrLaB0YqK7i3GJ_sEC5bezliZNtCqeENjU7kEB_wRF89Rh44kbwwvFDuIa5wrK3eT1YSS5fzCmBZofCKxCK9lfs1wgIeNB5wBx_ykrtovu-fnxr61KrAOInkpQqH8kRxsKjdUxOCS1rsy3j4LkZTccpzg0OPThQ1aMCPPtLTaZ3MbXR4VWF6jj4ZJLhS-6zSVlhGsoRsSzszdmo-cwKPDNtKmGlg3jN5Zf4J7NRjugsbvxKV3k88hJYJIsxGefZckOLkJDPZqEFas09-QgAGsXC3QQIpydr8-Bz8Wr0YHrJY-wLJ308H0C1hYc-RUHVOOt5RohEmoX410vdqD_tRNr0SdbyTJnSTQT09YF3aiKXkNicoEjTmBHpoMrnFhVcJWnSzy2sJv4-0nMVydoa8YpIWsebBfE_A3fDKOwhA-ApY-6UFFbYikJpdJz863GX5BH6QvzLRoGkyr7XJjQx6tmXktGU0yuIzYohIqwgN5E0E5J4WNvZoA5gX2BNbW_4bn3U3YidvGlaxC--P--7MQKoNx_SLi22bwJY0dolFHaKPrPgesDYinwdudsPPrTmSChsVjMJJEjW9Ne2BCx--oMbgHnANv3WtRbT6rF2St5NtFppwoBECdXeGc3b7rBhh_Pp14s4ByYi-LC-rk7qvqs6PPZn8u8CEGryC-EGcnfU6uICuS2GPFgSPN4Ifrs5iD6L6uZgzYC1xVR_BIQfuL6A1ivXWoqjNGJtPlMehoMdPP6p-bmlGWPGAAH.m3u8
-#EXTINF:-1,nick clasicc
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpcFgLZ5kIPWo5UmqHlXvilEgS2yN6T8r0l7cOUVZA_IeKatRuNj2mFD7-SzIlo05VNaf936ZgdzFgklDMgl1HipYZN8IlN-kkkUtdLJGP4oYIv1RyG3g8eRcapiUQqcke9kStqK1kU6ovQAUBWYkkyl52SMbxNsTScynK1su8o2jaC5l1-nvT6TlDsn4juNxQJlwGDTcKQjBcys2pGeUVSbq_8q43aOpaj1GWpGfN2HlNDQ2PAOzYIJBIfVm_-WQ-JGlsW0lQYBWGhbnsW_rCQaUbA2J_asaf8vqxsdWPYJEXQ5-CLETrRVU6s6b8Y3gps1Gw-sUH7TbIUYDSgJKcI_SGNG44CKS07rgsbGpBoCQYPUMlzpk8PvGgyvqRZHrYwJg-hMS2Z7uW5C3vVPA9_ukWJPWPR1VvV2m3nHCeBSJc8DZJtbWjSCUF99wQXK6bUJcWK4iH06uWBAOk7mQsghEUTtISq_VEVUJ9EV8-LaP_ugOAKTcmrHum4IKEwj3hdtGlVINnulfPMmibgUPVNxBArFLBqVj4KdhQX2rAHf-t0JK46k2RimFAX-od3XHA4AXOEr80srdzBoqsnslkJaByrdtHaebEi27OLFB1eudr19PmMATkocshBBSOYosCT--wehjWXPeKm9T5ximHnXcpKdcazz63I4QwNJPimknXSiEm2lkeMZsGyWIS4JMke_493Orei26qgbnUCEk7YT1IThJI241l8Q3HmO1JV0By7LnHhd6dCBqgqfgO1HQOByLBkncX-dOq6WdfpLANZD1NFRilAQ2U7y8kNF36R1BSGmVbJaFFov0mW_t631wFIu9vApVD4pJOfTrsWAWYFu-_08HhwitwkWD3n0JaTrehP8yySbZbe8EhCQ3LziMrlZLscoDkpbO_FTGgxSpnP2T3W0RQpU3vI.m3u8
+https://espare.tk/live/warner_lat.m3u8?token=c6CBtrX2wnu6aONThhWnVw&expires=1605668070
+
