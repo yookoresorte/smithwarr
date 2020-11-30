@@ -11,7 +11,7 @@ https://espare.tk/live/cinemax.m3u8?token=PkbEl2VKwcso7A44aOa45w&expires=1606720
 #EXTINF:-1,cine canal
 https://espare.tk/live/cinecanal_lat.m3u8?token=TwN1WrbNV5edoKkfgJr4Yg&expires=1606720157
 #EXTINF:-1,tnt 
-https://espare.tk/live/tnt_lat.m3u8?token=nGzTFyfCbwnVSx6IgC0AmA&expires=1606720202
+http://streaming.ydns.eu/mp4862.php/https://corchitama12.pedromo.me/live/tntlatino/index.m3u8?token=7ClS5qp8zuJ7vhtdWGijiw&expires=1606800428
 #EXTINF:-1,tnt series
 https://espare.tk/live/tnt_series_lat.m3u8?token=8tCcxDbmjFgj1ekEUEEBpQ&expires=1606720240
 #EXTINF:-1,axn
