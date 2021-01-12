@@ -4,7 +4,7 @@
 #EXTINF:-1,fox
 https://perocomato152.caraponi.me/live/foxlatino/index.m3u8?token=9WcGwtepet23qvGXvUUbYQ&expires=1610549345
 #EXTINF:-1,hbo latino
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/lbqtn3.m3u8?s=oKZRKWvedzKWkHF14RooaA&e=1610175224
+https://perocomato152.caraponi.me/live/hbolatino/index.m3u8?token=jWFzdeFXdpvJt2UL-DoZIg&expires=1610549765
 #EXTINF:-1,hbo2
 https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/x5r58d0omlmqph.m3u8?s=64e0zGeG5u7h0yMBaHxNaw&e=1610175252
 #EXTINF:-1,cinemax
