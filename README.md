@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1,fox
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/0e733j.m3u8?s=H86I6zCsBSg-Cb1H_e0dJg&e=1610175194
+https://perocomato152.caraponi.me/live/foxlatino/index.m3u8?token=9WcGwtepet23qvGXvUUbYQ&expires=1610549345
 #EXTINF:-1,hbo latino
 https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/lbqtn3.m3u8?s=oKZRKWvedzKWkHF14RooaA&e=1610175224
 #EXTINF:-1,hbo2
