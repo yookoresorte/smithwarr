@@ -15,8 +15,8 @@ https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/ymv0a1aobkxuf.m3u8?s=ioqO_RDSrysIU
 https://corchitama15.pedromo.me/live/tntlatino/index.m3u8?token=SmSESz7J-6HxcXPE-7n51w&expires=1610549165
 #EXTINF:-1,tnt series
 https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/uw2t3eem.m3u8?s=-JyfynC2HpPPsjBqNTIgAw&e=1610175391
-#EXTINF:-1,axn
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/l051rl.m3u8?s=DUVZAIPAmubEOd4WbTa82A&e=1610175421
+#EXTINF:-1,history
+https://cortino2.mitopo.me/live/historia/index.m3u8?token=fSg6De6_ti-SAzgyrFmjVQ&expires=1610550031
 #EXTINF:-1,amc
 https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=6K6K2It48MiMH53M93oWkQ&e=1610175452
 #EXTINF:-1,space
