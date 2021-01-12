@@ -12,7 +12,7 @@ https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/ztv7sh.m3u8?s=zklXME_99riNHS6N8Ppr
 #EXTINF:-1,cine canal
 https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/ymv0a1aobkxuf.m3u8?s=ioqO_RDSrysIUQqL4VT26Q&e=1610175339
 #EXTINF:-1,tnt 
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/glaldsq.m3u8?s=xksvi8lzTJxvhlgl40gA_w&e=1610175366
+https://corchitama15.pedromo.me/live/tntlatino/index.m3u8?token=SmSESz7J-6HxcXPE-7n51w&expires=1610549165
 #EXTINF:-1,tnt series
 https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/uw2t3eem.m3u8?s=-JyfynC2HpPPsjBqNTIgAw&e=1610175391
 #EXTINF:-1,axn
