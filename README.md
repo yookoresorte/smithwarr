@@ -1,33 +1,45 @@
 
 #EXTM3U
 
+#EXTINF:-1,fox accion
+
 #EXTINF:-1,fox
-https://perocomato152.caraponi.me/live/foxlatino/index.m3u8?token=9WcGwtepet23qvGXvUUbYQ&expires=1610549345
+https://perocomato152.caraponi.me/live/fox/index.m3u8?token=yzXgQT4ml5aprYTln95Phg&expires=1610597817
 #EXTINF:-1,hbo latino
-https://perocomato152.caraponi.me/live/hbolatino/index.m3u8?token=jWFzdeFXdpvJt2UL-DoZIg&expires=1610549765
-#EXTINF:-1,hbo2
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/x5r58d0omlmqph.m3u8?s=64e0zGeG5u7h0yMBaHxNaw&e=1610175252
+https://perocomato152.caraponi.me/live/hbolatino/index.m3u8?token=fOwbe_FLYrmO1azvAUNnOA&expires=1610597637
+#EXTINF:-1,historia
+https://cortino2.mitopo.me/live/historia/index.m3u8?token=UxWyGPO31NI3D5pv_nWfUg&expires=1610597873
 #EXTINF:-1,cinemax
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/ztv7sh.m3u8?s=zklXME_99riNHS6N8PprGw&e=1610175309
+https://corchitama12.pedromo.me/live/cinemax/index.m3u8?token=Q6djBFqaMMuAmqct2hEpzg&expires=1610597592
 #EXTINF:-1,cine canal
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/ymv0a1aobkxuf.m3u8?s=ioqO_RDSrysIUQqL4VT26Q&e=1610175339
+
 #EXTINF:-1,tnt 
-https://corchitama15.pedromo.me/live/tntlatino/index.m3u8?token=SmSESz7J-6HxcXPE-7n51w&expires=1610549165
+https://corchitama14.pedromo.me/live/tntlatino/index.m3u8?token=ZptTexcW7k3XSk_QTf9-IA&expires=1610597547
 #EXTINF:-1,tnt series
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/uw2t3eem.m3u8?s=-JyfynC2HpPPsjBqNTIgAw&e=1610175391
-#EXTINF:-1,history
-https://cortino2.mitopo.me/live/historia/index.m3u8?token=fSg6De6_ti-SAzgyrFmjVQ&expires=1610550031
+
+#EXTINF:-1,axn
+
 #EXTINF:-1,amc
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=6K6K2It48MiMH53M93oWkQ&e=1610175452
+https://cortino8.mitopo.me/live/amc/index.m3u8?token=kdBarbtaXD8-Oaer-2pTww&expires=1610597675
 #EXTINF:-1,space
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/me4gtt8v3fmket.m3u8?s=4mvw9v2eRrn7y1g_ekouRw&e=1610175480
+
 #EXTINF:-1,comedy central
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/4qox4.m3u8?s=xiygLNIH1OMFR7RVxIeqww&e=1610175552
+
 #EXTINF:-1,paramount channel
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/vwchy5d.m3u8?s=n0-GUJIS25AqMz1vuwyXOg&e=1610175589
+https://cortino6.mitopo.me/live/paramountchannel/index.m3u8?token=BymWHsrwD3O0oihOlLKv1g&expires=1610597722
 #EXTINF:-1,sony
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/oc2v2i6j.m3u8?s=F9S6O10D3VSymMV5ihSr-Q&e=1610175617
-#EXTINF:-1,futurama 
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpYFtOmYYucMH_4FA63JXQJZq86rpT6m_BrQ6Qv613WRmwvc7xOiHM1yrwkeVRtBEsuFBRkah_nolUCq6rpUqlcMLIrg0JtkgBsPmkG64TXbCWoDFNJM9QzC8gxP_erxt2T9vyiQOypLf1i5SJL_3eH3coMkl4AvDez2psS4vaHYUABjkJUzEN9LiKtJ9xq86qe-7wZMulE7yasoYLK8UXsw7Yq19jCdn90GGrl5hjP5Esh-kNav4iTo0zGq9h7YFSDgPGxB3SBVpVig7fQPXNTqqQ_zGiO9nSpiR2e5gSTHNSPiMcXG5Vv36NCYeOCSFftOhFpLifjsEBTMjdwdupZaELTYVIHfAguie6lvnDugKPYzB89a6Ha5wIRiFBkhkU5LHW2vsOwM5IpWJlI4wwtmbvHhZlkuEYUXoCxB0o51Jf1GjSlIU_1X05n2sZ1ZZAxya0XGwUNNJ5TZHPU146YGpfudYsRt-e5BsKteG_Ia0GxTn5BX_CV4KWP3cTdk98Ma_9LT9ED_VIv38g3cmexl8ZhMJvFhct-_oUBoW89dkOG45dchj2nA4xW7cVaIkDJuGjKgTUieKsYzTsn-tH3veULIlGtcsfvA0lmTR0O3mOE7WTzPPI3ZfYRRIPJqZ6ssocuTPvVKFboJd1luCoUm8yoi2shoYIOZS4vTNXjDUwG5ou1hTmLO7aUc5qWTIXg7RJwnUKjeNAt7SMUxxMK_mI9KC_bTAoR9nWUSpUKOD7QktptTvEZV2Dr22OGXfrc8NF27GHbXauZ2uea4O9nR-0vp9kto69OzPWSkAmjxYwNhyRTc4HMtNMP_XGFH2GvKhURxpKAdyJDGiHeOZXXrOxt9zuTJlL3hHAS2dGDx_v83dB2BabESELqD94tK3QsCc_uE1epNE-caDGa6V6jthaKORMeKGQ.m3u8
+
+#EXTINF:-1,studio universal
+
+#EXTINF:-1,universal channel
+
+#EXTINF:-1,24/7 peliculas de terror
+
+#EXTINF:-1,24/7 los simpsons
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpAFPAjC-xl8orld2dhnTxR1rArqCmOs9KbN3Cfewu-U5UxlLcuDFSc5C_pCKk9o_vkxNIILSC6Mf_KTKGYeynasS6LTXn8IeLMsX4nHxpz8oacNzvplG5y6geZOVjXzCx_qeaQ62h_hoKPKrRcW-UAko_H_R2bDq1pqEwn9ua8BIMa5rRwIhW8Nwgh308OQje8HOqCrK5RNMj1wkwzOINA7S5pUrMGIqahoRiEpmdqO4q-Z_fCbi9IpEjH33qH8u605kIwZg7Bi62jDX-Iprh_yiF_fnL7gflvFez_jdc9F2yHFmD00bLECXbEk384H7_8bbR64jRLxzIOhB82UZG5wqPYUS0Xpqz7r9a7dUmw4uRxVjbGBwa7bVAsUjmkRElP8125HCfmmvq1z2--RLYrAu5_UcE0BJx0pQ5fdGdj1TTZ09h9f3dxphEPD2fgD-0294ygkAY1etodVZfLowDjruJaws-ASKzBOBymXFzcUBWAD1h7Ud8EU9kN52QklxfLpVmH0VPH8onFwwDPY84HKlsu9D593FVHmBuxSXyeAI5rDFqMHRo0R3Q71wgeAklbzUlX4nhCa1163Q5oDj9Y5nIoq4hHqG_W5AxQv-rbU85_DEkmcWlruHsnsJLyasOuzxTc_wsqSI-VRPWNvx2v-jp7rT-ZZHimDgOjE2qjReDEqn2qo4iPcmFjz0pOkRE4dlDk3z8Is2xs9MhbFffaXaaZsm9x3hMSZ5WrxMC1fJBrzSPqJ-FC5I1r16fLmq1wJWil7GaUKdeLMYUT192tD9y-ulXMTjeMqaOOugK0Lv_9Di82UzhoFSatLA-zGh3ZHOVRjF7fIsbF2igm12B5uLCBJte7qJv3r6zwLinUBhpwSEKBpl-8P6Hmp_Dtf8C5wTmcaDOUVnaKqMRcB5evcdw.m3u8
+#EXTINF:-1,24/7 futurama
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpQFdwgsX6nFEkdw9TzqugnfgOsCwUVhdypQT1jGYplbNCtXhJW1uV-2q3hIBeNg3gneVTUvEe9zs3S6Cwz97Ua_UtX4GaDb0BG2WmV0X3GlpPRPEIZ4SoPCkbT5iIOPQKn4ULZKCH-PFqTtIP5jmI9DrirKCBC1gByVhGglZid3yXqpAcPMU4OzI9rMBlIPyo1NQ6g6d4tre6wLnr1jRbHh6s-aC3YIrbiSoS49KXyaKsAId8rCXyW3QdY1Og9lgs0ZEOOTvM19YOzzcE5q_nlJZBxXiOS71_iKk_287iJPCpNqbKBV_-BjTxesc1oDx5gTN13sCeXMwNRl_SomF7O53qfy2MZoLJerKg80CL3QndYUdUDDwx4CcruOrupAWdbYM04xF0i1J_KZufAMvwcoHtkA5HcAzwfJldfuRK4ztazeDOxyZ70zt69dv0n1cIbdLCkOsEyXubfzT-cYSkwaisakH1T4Z56AHnhIaKjiBdHodGp3nuamFB7TTk6nPkvZHzGumt9FJaaIASbTNmrHiimoY8H30BelqNYESDDxxt0xatQIGYcc6IkV9Bdu9kT-KnO62AeWKDKo1wXCR6auwf3pYbBy2WGb9GJCQ55Doa5uILTPbR3oqxSpP4zHxzkZOwKN92VVa8SxyCWyOI94u-jyL8CX2_2RHd_hjDP5bNRLVf8_QEvXSROC5HWu8K2KEUr9TCFtwBZ1VvOgf8RgkixttfwLwJJxJoEiB9t88hUq_ItEXoJTwX8PCulmG1AliZLAFb36jnIbcb2wHTE4C5BriJKgaCNqmH83jtRxGLDhzeJeusfPdsn4h55eYDOmLeFUZbXi-td_620jG0euD653TEdxW-Dx7hmXapj1GlvrJ5roEhCg30ayVvpsQCcOc2hgQII3GgzUWsQaO2kVuNL4txA.m3u8
+#EXTINF:-1,24/7 dragon ball super
+
 
 
