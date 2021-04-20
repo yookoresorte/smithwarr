@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,fox accion
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/4612rwe.m3u8?s=1J9AAkNw55bLly-bBoyZRA&e=1618729219
+https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/1feji.m3u8?s=z3ZQjGRxyrcPMPpOhi3urw&e=1618969387
 #EXTINF:-1,hbo latino
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=EDUAcEUxEsABbQBVWapmPg&e=1618729260
 #EXTINF:-1,hbo2
