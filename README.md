@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,fox accion
+#EXTINF:-1,fox accionprueba
 https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/1feji.m3u8?s=z3ZQjGRxyrcPMPpOhi3urw&e=1618969387
-#EXTINF:-1,hbo latino
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=EDUAcEUxEsABbQBVWapmPg&e=1618729260
+#EXTINF:-1,hbo latinoprueba1700
+https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/glaldsq.m3u8?s=FJenEBRpMFnN4PmjNk5P3A&e=1618974088
 #EXTINF:-1,hbo2
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/x5r58d0omlmqph.m3u8?s=ig0kN7SO5W8PAyHaphW3Qg&e=1618729290
 #EXTINF:-1,cinemax
