@@ -12,8 +12,8 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=hUI8Mcmj7K6C6rLwUkw
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/ymv0a1aobkxuf.m3u8?s=TECE-Si1EyZD38OsaZPXpQ&e=1618729350
 #EXTINF:-1,tnt 
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/glaldsq.m3u8?s=AnOn5TX7FGKzo_k_YzGChA&e=1618729379
-#EXTINF:-1,tnt series
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/uw2t3eem.m3u8?s=37HCiK14ziIchMmutuP2zg&e=1618729402
+#EXTINF:-1,tnt series 0019
+https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/uw2t3eem.m3u8?s=YYcjwncY1oZZfE7ORlydQQ&e=1619000278
 #EXTINF:-1,axn
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/l051rl.m3u8?s=tO5sc-iVKFhCajc1SRWWFg&e=1618729429
 #EXTINF:-1,amc
