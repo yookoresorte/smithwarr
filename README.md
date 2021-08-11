@@ -1,35 +1,37 @@
 #EXTM3U
 
 #EXTINF:-1,fox 
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/3cuvpp5n.m3u8?s=ZVkMsxxwwW9gjcaYJUm5mw&e=1628728207
+https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/0e733j.m3u8?s=zHYUkjJ6bAMVeuMSwXiBCg&e=1628746779
 #EXTINF:-1,CN
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/1feji.m3u8?s=ySNJIfuqXBFwDJI9EF1Eow&e=1628728438
+https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/1feji.m3u8?s=qCOxpId2xhzYYoCr6VDS3Q&e=1628746811
 #EXTINF:-1,hbo latino
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/lbqtn3.m3u8?s=8aJH6iI4OYrHfe1XQbTtOg&e=1628728227
+https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/lbqtn3.m3u8?s=SUbt2oJgNe0DBgDAYH07XA&e=1628746831
 #EXTINF:-1,NICK
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=2F4y_ENV07DtnyWLuLWbPg&e=1628728454
+https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=-zVCJCSDKGhk-7RBUnGcsA&e=1628746850
 #EXTINF:-1,disneyXD
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/12dyavowb6wnxh3.m3u8?s=dPUxJG3Y0ov8zXQBWVxi6Q&e=1628728470
+https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/12dyavowb6wnxh3.m3u8?s=ESOQBBpPHOpGAfH-7Mnh1g&e=1628746866
 #EXTINF:-1,tnt 
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/glaldsq.m3u8?s=0sVFZD72ez6n4qswS3uBuw&e=1628728244
+https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/glaldsq.m3u8?s=yABsKscUmtxXRYSgZPLubg&e=1628746882
 #EXTINF:-1,tnt series
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/uw2t3eem.m3u8?s=OlbXUgXLcQYszW1lxiEWzg&e=1628728261
+https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/uw2t3eem.m3u8?s=CNYvP4h-xmex4jVCCBhh4A&e=1628746731
 #EXTINF:-1,cine canal
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/ymv0a1aobkxuf.m3u8?s=aVHTTmcEK-SHCGBzBqPaXA&e=1628728282
+https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/ymv0a1aobkxuf.m3u8?s=QFdrsPnHjIB7HcGZ67qCWw&e=1628746897
 #EXTINF:-1,space
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/me4gtt8v3fmket.m3u8?s=FT_FW5EGNL02r8AAzg-lBA&e=1628728300
+https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdrgLKotLcpCL793vRfKVFX5JvqmjHxLHE6UgqgB6uDiAxKAW420HG8dknSqkl9kkcg
 #EXTINF:-1,comedy central
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/4qox4.m3u8?s=B_YLKN5fdqFXfTOlR1x3tw&e=1628728326
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl43odifuayk47QCVM9gbmF8)/dm/3/x7wzxiw/s/live-2.m3u8
 #EXTINF:-1,paramount channel
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/vwchy5d.m3u8?s=K_MaXVN6bugkGjVCwWdDOQ&e=1628728347
+
 #EXTINF:-1,warnertv
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/j5uwhfb7w5c.m3u8?s=9Pot5TGlUhYZeLlfc1PkAQ&e=1628728363
+
 #EXTINF:-1,studio universal
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=pHqqQRaqRJr-njFHzhBX0g&e=1628728378
+
 #EXTINF:-1,universal channel
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/xu9jpirg.m3u8?s=etwgCaAVAtxaEthX7try7Q&e=1628728392
+
 #EXTINF:-1,History
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/gtj8vdvlab11nc0.m3u8?s=N7Sb8fZyBviQ7hcq-Lz_kQ&e=1628728419
+
+
+
 
 
 
