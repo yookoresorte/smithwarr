@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,fox 
-https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/0e733j.m3u8?s=8e41HLq4fw5dcdQBzj81GQ&e=1629277319
+https://www.youtube.com/watch?v=BGwkH1J8CJ8&list=PLgnKy1YVwcjPqIbe2qCM8DFh6UwgO5vJI
 #EXTINF:-1,CN
 https://qg8c2aiqlqxnff23.azcdn728.net:8443/hls/1feji.m3u8?s=DZQBzfX3UvZv-1uNJ1-5Sw&e=1629277353
 #EXTINF:-1,hbo latino
