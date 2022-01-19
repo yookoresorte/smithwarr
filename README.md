@@ -19,9 +19,9 @@ https://www.youtube.com/watch?v=CEq6_qnZgO4
 #EXTINF:-1,sponge
 https://www.youtube.com/watch?v=dJ9nS_QMYyQ
 #EXTINF:-1,comedy central
-
+https://edge4-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/dash/TNTSeries-video=379968.track_id=10011-6675640383460.mp4
 #EXTINF:-1,paramount channel
-
+https://edge4-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd
 #EXTINF:-1,warnertv
 
 #EXTINF:-1,studio universal
